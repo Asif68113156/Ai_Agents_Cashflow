@@ -1,0 +1,185 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DRAFT COMMUNICATION #1
+TO:      Site Leadership Team / CBE Review
+FROM:    [Your Name] — AI Performance Analytics
+SUBJECT: Month-End Site Performance & Cash Flow Review — 05 July 2026
+CHANNEL: Email / Teams
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hi Team,
+
+Please find below the AI-generated month-end performance summary for your review.
+
+──────────────────────────────────────
+EXECUTIVE SUMMARY — 05 July 2026
+──────────────────────────────────────
+
+SALES           🔴 CRITICAL
+  Actual     : ₹     568,055,000
+  AOP Target : ₹   3,359,500,000
+  Achievement: 16.9%
+
+COLLECTIONS     🔴 CRITICAL
+  Actual     : ₹      34,597,000
+  AOP Target : ₹  11,100,000,000
+  Achievement: 0.3%
+
+CONSTRUCTION    ✅ ON TRACK
+  Actual Avg Progress : 125.5%
+  AOP Plan Progress   : 49.0%
+  Achievement         : 256.2%
+
+NET CASH FLOW
+  Actual NCF : ₹    -753,064,227
+
+──────────────────────────────────────
+KEY RISKS
+──────────────────────────────────────
+- 0 unit(s) flagged as High Risk
+- 52 customer(s) overdue >30 days | ₹29,084,000 at risk
+- 0 item(s) require CEO-level escalation
+- 221 data quality issue(s) flagged for human review
+
+All detailed reports (cash flow, action plan, data quality, escalation summary) are attached.
+
+Please review and confirm actions before the next CBE review session.
+
+Regards,
+[Your Name]
+[Your Designation] — Godrej Properties
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DRAFT COMMUNICATION #2
+TO:      Sales Head
+FROM:    [Your Name]
+SUBJECT: 🔴 URGENT — Sales Booking Shortfall vs AOP — Action Required
+CHANNEL: Email + Teams
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hi [Sales Head Name],
+
+This is a formal alert regarding this month's booking performance:
+
+  Actual Booking Value : ₹568,055,000
+  AOP Target           : ₹3,359,500,000
+  Achievement          : 16.9%  ← BELOW 80% THRESHOLD
+
+REQUIRED ACTIONS:
+  1. Share a revised weekly booking forecast by 05 Jul 2026
+  2. Identify high-potential leads and activate channel partner outreach
+  3. Resolve all 13 units without an assigned Sales Owner
+  4. Submit product-mix recovery plan (1BHK / 2BHK / 3BHK split) by this week's review
+
+This will be flagged in the leadership CBE deck if not addressed.
+
+Please confirm receipt and share updated numbers by EOD.
+
+Regards,
+[Your Name]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DRAFT COMMUNICATION #3
+TO:      Collections Head + Collections Team
+FROM:    [Your Name]
+SUBJECT: 🔴 Overdue Collections — 52 Customers Require Immediate Action
+CHANNEL: Email + WhatsApp (team)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hi Collections Team,
+
+The AI analysis has flagged 52 customers with overdue payments >30 days:
+  Total Outstanding Amount at Risk: ₹29,084,000
+
+TOP PRIORITY CUSTOMERS:
+Customer Name Unit Number  Outstanding Amount  Days Overdue
+ Kiara Kapoor   AGR-B1001        2,670,000.00         51.00
+Aarush Talwar   AGR-B0407        1,947,000.00         32.00
+    Dev Desai   AGR-D0708        1,827,000.00         63.00
+   Rudra Suri   AGR-C1506        1,728,000.00         83.00
+  Avni Mathur   AGR-D1104        1,443,000.00         38.00
+
+REQUIRED ACTIONS — IMMEDIATE:
+  1. Issue formal demand notices to all overdue customers TODAY
+  2. Personal call by Collections Owner within 24 hours
+  3. If no response in 7 days → escalate to Legal + Site Head
+  4. Update collection status in the tracker by EOD for leadership review
+
+Monthly collections achievement is currently 0.3% — recovery of overdue amounts
+is critical to meeting the 85% minimum threshold.
+
+Regards,
+[Your Name]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DRAFT COMMUNICATION #4
+TO:      Construction Head + Site Manager
+FROM:    [Your Name]
+SUBJECT: ⚠️ Construction Delay Alert — 19 Milestone(s) Behind Schedule
+CHANNEL: Teams + Email
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hi [Construction Head Name],
+
+AI analysis has flagged the following construction delays (>15 days behind plan):
+
+DELAYED MILESTONES:
+      Activity Delay Days Responsible Owner
+  Window frame         25     Prakash Pawar
+Window shutter         25     Prakash Pawar
+  Window frame         25       Nilesh More
+     Main door         25       Nilesh More
+1st coat paint         18       Nilesh More
+
+These delays directly impact:
+  - Customer milestone-linked collection demands
+  - Project cash flow (estimated collection trigger delayed)
+  - Leadership CBE reporting thresholds
+
+REQUIRED ACTIONS:
+  1. Submit delay reason for ALL flagged milestones by EOD TODAY (mandatory for leadership report)
+  2. Provide revised completion dates and recovery plan by 05 Jul 2026
+  3. Identify if any additional cost will be incurred (budget vs actual)
+  4. Confirm if any construction milestones are 100% complete — collections team needs to trigger demands
+
+Please expedite this to avoid cross-functional escalation to CEO.
+
+Regards,
+[Your Name]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DRAFT COMMUNICATION #5
+TO:      All Department Heads (Sales, Collections, Construction, Finance)
+FROM:    [Your Name]
+SUBJECT: ⚠️ Data Clarification Required — 221 Issues Flagged by AI System
+CHANNEL: Email
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hi All,
+
+The AI data validation engine has flagged 221 data quality issues that require
+human review and correction before the next leadership report.
+
+Please refer to the attached **Data Quality Report** (data_quality_report.xlsx) for the
+complete list, sorted by severity.
+
+Key issue types identified:
+                   Category                        Severity  Count
+     Customer Code Mismatch                          🔴 High    105
+              Unit Mismatch                        🟡 Medium     39
+              Missing Owner                        🟡 Medium     34
+          Cash Flow Leakage      🔴 High — Cash Flow Leakage     31
+Missing Data — Delay Reason 🔴 High — Clarification Required      6
+         Milestone Mismatch                        🟡 Medium      3
+         Milestone Mismatch                          🔴 High      2
+         AOP Scale Mismatch 🔴 High — Clarification Required      1
+
+ACTION REQUIRED:
+  - Each department head to review issues in their area
+  - Correct source data in the respective systems
+  - Confirm corrections to [Your Name] by 05 Jul 2026
+
+Data integrity is essential for accurate leadership reporting. Uncorrected items
+will appear as "Clarification Required" in the CBE deck.
+
+Regards,
+[Your Name]

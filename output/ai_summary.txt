@@ -1,0 +1,27 @@
+========== AI MANAGEMENT SUMMARY ==========
+
+⚠ Sales achievement is only 16.91% of target.
+⚠ Collections achieved only 0.31%.
+Construction is ahead of schedule.
+
+Risk Distribution
+Critical: 105
+Medium: 39
+
+Escalation Summary
+CEO / Site Head: 105
+Site Manager: 39
+
+Top Business Issues
+Overdue Collection, Low Collection, Sales Risk (16.9% of AOP), Collections Risk (0.3% of AOP), Cross-Functional Escalation: 40
+Low Collection, Sales Risk (16.9% of AOP), Collections Risk (0.3% of AOP): 39
+Low Collection, Sales Risk (16.9% of AOP), Collections Risk (0.3% of AOP), Cross-Functional Escalation: 20
+High Outstanding, Low Collection, Sales Risk (16.9% of AOP), Collections Risk (0.3% of AOP), Cross-Functional Escalation: 20
+Overdue Collection, High Outstanding, Low Collection, Sales Risk (16.9% of AOP), Collections Risk (0.3% of AOP), Cross-Functional Escalation: 10
+
+Recommended Actions
+- Recover overdue collections.
+- Focus on high-risk projects.
+- Monitor construction delays.
+- Improve booking performance.
+- Review escalated projects weekly.
