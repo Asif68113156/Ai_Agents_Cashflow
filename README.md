@@ -32,13 +32,13 @@ Open: **http://localhost:8501**
 ### 📈 Sales Dashboard
 
 <p align="center">
-  <img src="Screenshots/sales.png" width="1000">
+  <img src="Screenshots/Sales.png" width="1000">
 </p>
 
 ### ⚠️ Risk Dashboard
 
 <p align="center">
-  <img src="Screenshots/risk.png" width="1000">
+  <img src="Screenshots/Risk.png" width="1000">
 </p>
 
 
