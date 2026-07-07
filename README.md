@@ -23,6 +23,27 @@ python -m streamlit run dashboard.py
 ```
 Open: **http://localhost:8501**
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="Screenshots/dashboard.png" width="1000">
+</p>
+
+### 📈 Sales Dashboard
+
+<p align="center">
+  <img src="Screenshots/sales.png" width="1000">
+</p>
+
+### ⚠️ Risk Dashboard
+
+<p align="center">
+  <img src="Screenshots/risk.png" width="1000">
+</p>
+
+
+
+
 ---
 
 ##  Project Structure
